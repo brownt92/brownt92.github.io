@@ -59,9 +59,20 @@ Node* head;
 Node* tail;
 int size;
 ```
+Insert algorithm to insert bids into a hashtable
+
 ![Hash Table](Images/hashtable.PNG)
+
+Algorithm for adding bids to the front or back of a linked list
+
 ![Linked List](Images/linkedlist.PNG)
+
+Algorithm for searching for a node value in a binary search tree
+
 ![Binary Search Tree](Images/searchtree.PNG)
+
+Algorithm that uses partitioning to sort bids by value to order the bids by value
+
 ![Vector Sort](Images/vectorsort.PNG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
