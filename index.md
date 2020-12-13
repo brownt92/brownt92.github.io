@@ -20,7 +20,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Data Structures and Algorithms
 
-![Hash Table](Images/hastable.PNG)
+![Hash Table](Images/hashtable.PNG)
 ![Linked List](Images/linkedlist.PNG)
 ![Binary Search Tree](Images/searchtree.PNG)
 ![Vector Sort](Images/vectorsort.PNG)
