@@ -14,6 +14,7 @@ In this ePortfolio there are three artifacts I feel best showcase some of the sk
 [Source code here](https://github.com/brownt92/brownt92.github.io/tree/main/AuthenticationSystem)
 
 This is an Authentication System written in Java. It asks the user in the command line for a usernasme and password, encrypts the password, then verifies the encrypted string and username are present in a mock database comtaining all employee login information.
+
 ![Login Attempt Lock](Images/loginattempt.PNG)
 
 The program only allows three failed attempts at login before locking the user out.
