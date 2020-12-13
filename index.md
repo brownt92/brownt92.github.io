@@ -1,6 +1,6 @@
 # Professional Self Assessment
 
-  Throughout the journey to recieve a BS in Computer Science, I have learned a lot of skills and in turn have focused on what my path in the field of computer science should be. In this ePortfolio you will see examples of my ability to create and use multiple algorithms and data structures, create software with security measures to protect sensitive data, and build and manipulate databases as well as writing custom SQL queries to show detailed tables from larger datasets. During my time in the CS program I also learned how to work in a team environment by utilizing github to collaborate with classmates on projects, and the basics of working in an agile work environment. 
+    Throughout the journey to recieve a BS in Computer Science, I have learned a lot of skills and in turn have focused on what my path in the field of computer science should be. In this ePortfolio you will see examples of my ability to create and use multiple algorithms and data structures, create software with security measures to protect sensitive data, and build and manipulate databases as well as writing custom SQL queries to show detailed tables from larger datasets. During my time in the CS program I also learned how to work in a team environment by utilizing github to collaborate with classmates on projects, and the basics of working in an agile work environment. 
 
 # Code Review
 
