@@ -8,17 +8,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Artifacts
 
-## Authentication Syatem
+### Authentication System ( Java )
 
 ![Login Attempt Lock](Images/loginattempt.PNG)
 ![Encryption](Images/passwordencryption.PNG)
 
-## SQL database Script
+### Database Script ( SQL )
 
 ![Create Table Script](Images/createtable.PNG)
 ![Query from multiple tables](Images/querytables.PNG)
 
-## Data Structures and Algorithms
+### Data Structures and Algorithms ( C++ )
 
 ![Hash Table](Images/hashtable.PNG)
 ![Linked List](Images/linkedlist.PNG)
