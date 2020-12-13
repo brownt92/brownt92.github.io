@@ -12,7 +12,7 @@ In this ePortfolio there are three artifacts I feel best showcase some of the sk
 
 ### Authentication System ( Java )
 
-This is an Authentication System written in Java. It asks the user in the command line for a usernasme and password, encrypts the password, then verifies the encrypted string and username are present in a mock database comtaining all employee login information. 
+This is an Authentication System written in Java. It asks the user in the command line for a usernasme and password, encrypts the password, then verifies the encrypted string and username are present in a mock database comtaining all employee login information.[Source code here](https://github.com/brownt92/brownt92.github.io/tree/main/AuthenticationSystem)
 
 ![Login Attempt Lock](Images/loginattempt.PNG)
 
@@ -24,11 +24,14 @@ Here is a look at the code to encrypt the given password.
 
 ### Database Script ( SQL )
 This artifact is an SQL script used to simulate a phone companmy database that stores customers info and messages and query and build tables to better visualize the data.
+[Source code here](https://github.com/brownt92/brownt92.github.io/tree/main/Database%20Management)
 
 ![Create Table Script](Images/createtable.PNG)
+
 Script to create a new table in the company's database.
 
 ![Query from multiple tables](Images/querytables.PNG)
+
 Query script to create a new table usinmg values from other tables in the database.
 
 ### Data Structures and Algorithms ( C++ )
