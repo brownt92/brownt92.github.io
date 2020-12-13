@@ -4,7 +4,7 @@
 
 # Code Review
 
-<iframe width="1280" height="699" src="https://www.youtube.com/embed/kHSvA8kQFaU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="700" src="https://www.youtube.com/embed/kHSvA8kQFaU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Artifacts
 
