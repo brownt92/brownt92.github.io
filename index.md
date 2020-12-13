@@ -50,14 +50,14 @@ struct Node {
 ```
 while a data structure for a linked list would look like this:
 ```
-struct node{
-		Bid data;
-		node* nextNode;
+struct Node {
+	Bid data;
+	Node* nextNode;
 	};
-	node* head;
-	node* tail;
-	int size;
-  ```
+Node* head;
+Node* tail;
+int size;
+```
 ![Hash Table](Images/hashtable.PNG)
 ![Linked List](Images/linkedlist.PNG)
 ![Binary Search Tree](Images/searchtree.PNG)
