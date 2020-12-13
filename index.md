@@ -51,9 +51,10 @@ struct Node {
 while a data structure for a linked list would look like this:
 ```
 struct Node {
-	Bid data;
-	Node* nextNode;
-	};
+   Bid data;
+   Node* nextNode;
+};
+
 Node* head;
 Node* tail;
 int size;
