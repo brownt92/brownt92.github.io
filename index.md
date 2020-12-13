@@ -36,6 +36,28 @@ Query script to create a new table usinmg values from other tables in the databa
 
 ### Data Structures and Algorithms ( C++ )
 
+This project is a set of programs written in C++ that use various forms algorithms and data structures to sort, add, remove, and search a dataset containing bid information from a betting site. [Source code here](https://github.com/brownt92/brownt92.github.io/tree/main/Data%20Structures%20and%20Algorithms)
+
+Each algorithm requires a specific data structure to work properly. For example, a search tree data structure would look like this:
+
+```
+struct Node {
+   Bid bid;
+   Node* parentPtr;
+   Node* leftPtr;
+   Node* rightPtr;
+};
+```
+while a data structure for a linked list would look like this:
+```
+struct node{
+		Bid data;
+		node* nextNode;
+	};
+	node* head;
+	node* tail;
+	int size;
+  ```
 ![Hash Table](Images/hashtable.PNG)
 ![Linked List](Images/linkedlist.PNG)
 ![Binary Search Tree](Images/searchtree.PNG)
