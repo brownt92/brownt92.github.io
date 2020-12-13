@@ -6,9 +6,24 @@ You can use the [editor on GitHub](https://github.com/brownt92/brownt92.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Artifacts
+# Artifacts
 
-![Login Attempt Lock](Images/loginattempt.PNG) ![Encryption](Images/passwordencryption.PNG)
+## Authentication Syatem
+
+![Login Attempt Lock](Images/loginattempt.PNG)
+![Encryption](Images/passwordencryption.PNG)
+
+## SQL database Script
+
+![Create Table Script](Images/createtable.PNG)
+![Query from multiple tables](Images/querytables.PNG)
+
+## Data Structures and Algorithms
+
+![Hash Table](Images/hastable.PNG)
+![Linked List](Images/linkedlist.PNG)
+![Binary Search Tree](Images/searchtree.PNG)
+![Vector Sort](Images/vectorsort.PNG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
