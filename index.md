@@ -15,10 +15,10 @@ In this ePortfolio there are three artifacts I feel best showcase some of the sk
 This is an Authentication System written in Java. It asks the user in the command line for a usernasme and password, encrypts the password, then verifies the encrypted string and username are present in a mock database comtaining all employee login information. 
 
 ![Login Attempt Lock](Images/loginattempt.PNG)
-The program only allows three failed attempts at login before locking the user out.
+    The program only allows three failed attempts at login before locking the user out.
 
 ![Encryption](Images/passwordencryption.PNG)
-Here is a look at the code to encrypt the given password.
+      Here is a look at the code to encrypt the given password.
 
 ### Database Script ( SQL )
 This artifact is an SQL script used to simulate a phone companmy database that stores customers info and messages and query and build tables to better visualize the data.
