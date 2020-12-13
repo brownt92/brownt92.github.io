@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Artifacts
 
-![Login Attempt Lock](Images/loginattempt.PNG) ![Image](src)
+![Login Attempt Lock](Images/loginattempt.PNG) ![Encryption](Images/passwordencryption.PNG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
